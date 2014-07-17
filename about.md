@@ -10,7 +10,7 @@ You can find out more about me professionally at [LinkedIn][linkedin].
 
 * [NASA Ames Research Center][mine] - NASA personal profile
 * [Linkedin][linkedin] - Linkedin profile
-* [Twitter][twitter] - Random ramblings
+* [Twitter][twitter] - Pseudo-random gibberish 
 
 
 [ames]: www.nasa.gov/centers/ames/
