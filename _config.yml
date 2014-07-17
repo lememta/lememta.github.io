@@ -1,0 +1,21 @@
+# Site settings
+title: Temesghen Kahsai
+tagline: 'Temesghen Kahsai'
+email: lememta@gmail.com
+description: 'Personal site of Temesghen Kahsai, Eritrean technologist and space enthusiast'
+baseurl: ""
+url: "http://lememta.github.io/"
+
+author:
+  name:           'Temesghen Kahsai'
+  url:            http://lememta.github.io/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+paginate:         5
+
+gems:
+  - jekyll-sitemap
+
