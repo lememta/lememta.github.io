@@ -13,10 +13,10 @@ You can find out more about me professionally at [LinkedIn][linkedin].
 * [Twitter][twitter] - Random ramblings
 
 
-[Ames]: http://www.nasa.gov/centers/ames/home/#.U8hS04BdXCY
+[ames]: www.nasa.gov/centers/ames/
 [twitter]: https://www.twitter.com/teme
 [linkedin]: www.linkedin.com/in/temesghen/
 [bitbucket]: https://bitbucket.org/lememta
-[rse]: http://ti.arc.nasa.gov/tech/rse/
-[mine]: http://ti.arc.nasa.gov/profile/tkahsaia/
-[cmu]: http://www.cmu.edu/silicon-valley/
+[rse]: www.ti.arc.nasa.gov/tech/rse/
+[mine]: www.ti.arc.nasa.gov/profile/tkahsaia/
+[cmu]: www.cmu.edu/silicon-valley/
