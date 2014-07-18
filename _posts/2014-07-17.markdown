@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "New website"
+title:  "CoCo"
 date: 2014-07-17
 categories: update
 ---
 
-More to come ...
+### Contract-based compositional verification of outsourced flight-critical systems.
