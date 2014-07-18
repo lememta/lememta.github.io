@@ -4,7 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-## Funded projects
 
   <ul class="posts">
         {% for post in site.posts %}

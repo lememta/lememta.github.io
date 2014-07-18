@@ -1,3 +1,5 @@
+
+
 ---
 layout: post
 title:  "Simple is better"
