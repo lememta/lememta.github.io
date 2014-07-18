@@ -8,6 +8,7 @@ permalink: /projects/
 
 ### CoCo: Contract-based compositional verification of outsourced flight-critical systems. [2014-2017]
 
+
 ### CaVa: Compositional verification of heteregenous software protocol stack. [2014-2017]
 
 
