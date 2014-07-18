@@ -2,7 +2,7 @@
 
 ---
 layout: post
-title:  "Simple is bethhhhter"
+title:  "Simple is better"
 date:   2014-06-21 20:23:00
 categories: update
 ---
