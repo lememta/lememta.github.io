@@ -15,7 +15,7 @@ Some links:
 
 [ames]: www.nasa.gov/centers/ames/
 [twitter]: https://www.twitter.com/teme
-[linkedin]: www.linkedin.com/in/temesghen/
+[linkedin]: http://www.linkedin.com/in/temesghen/
 [bitbucket]: https://bitbucket.org/lememta
 [rse]: www.ti.arc.nasa.gov/tech/rse/
 [mine]: www.ti.arc.nasa.gov/profile/tkahsaia/
