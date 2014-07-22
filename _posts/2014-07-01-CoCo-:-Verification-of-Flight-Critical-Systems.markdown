@@ -22,4 +22,4 @@ In this project we seek to achieve a higher level of safety assurance than tradi
 [arie]: http://arieg.bitbucket.org/
 [cesare]: http://homepage.cs.uiowa.edu/~tinelli/
 [falk]: http://www.falkhowar.de/
-[teme]: www.lememta.info
+[teme]: http://wwww.lememta.info
