@@ -9,6 +9,16 @@ My name is Temesghen Kahsai, or just simply Teme, or lememta (only for childhood
 
 You can find out more about me professionally at <a href="www.linkedin.com/in/temesghen/">LinkedIn</a>.
 
+<h3>Funded projects</h3>
+
+  <ul class="posts">
+        {% for post in site.posts %}
+        <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <span class="posted-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+        {% endfor %}
+    </ul>
 
     <h3>News</h3>
     <ul class="things">
