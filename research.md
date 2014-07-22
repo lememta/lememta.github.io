@@ -5,18 +5,18 @@ permalink: /research/
 ---
 
 
-## Research Topics ##
+### Topics ###
 
 * Automated analysis of safety and mission critical systems
 
-## Publications ##
+### Publications ###
 
 Most of my publications can be found online:
 
 * [Google Scholar][gs]
 * [DBLP][dblp]
 
-## Service ##
+### Service ###
 * Local chair for [CAV 2015][cav15]
 * PC: AVOCS-2014, ASE-TOOLS-2014, VSTTE-2014.
 * Reviwer for: CAV, ISSTA, TACAS, ASE, AVOCS, CADE, VMCAI, FMCAD.
