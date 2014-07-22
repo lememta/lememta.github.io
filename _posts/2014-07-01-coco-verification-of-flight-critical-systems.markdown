@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "coco verification of flight critical systems"
+title:  "CoCo: Verification of Flight Critical Systems"
 ---
 
-bla bla bl
+More to come ...
