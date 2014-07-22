@@ -10,7 +10,7 @@ NASA : System-Wide Safety Assurance Technologies Project
 * [Temesghen Kahsai][teme] (Principal Investigator) [NASA Ames / CMU]
 * [Falk Howar][falk] (Co-Principal Investigator) [NASA Ames / CMU]
 * [Arie Gurfinkel][arie] (Co-Investigator) [SEI / CMU]
-* [Cesare Tinelli][cesrae] (Co-Investigator) [University of Iowa]
+* [Cesare Tinelli][cesare] (Co-Investigator) [University of Iowa]
 
 ## Description ##
 A common practice in the development of complex component-based Flight Critical Systems (FCS) is to outsource the implementation of some of the components to external contractors or assemble them from Commercial Off-The-Shelf (COTS) systems. Those components are delivered as black-box systems, many of which are first prototyped in- house by the system integrator. Traditionally in this sort of development scenario, the verification of the assembled entire system is done using black-box testing. Despite its limitation, the latter has long been a preferred verification technique.
