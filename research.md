@@ -8,6 +8,13 @@ permalink: /research/
 ### Topics ###
 
 * Automated analysis of safety and mission critical systems
+** SMT-based Model checking
+** Automated compositional analysis
+** Automated invariant generation
+<!-- * Security analysis of mobile -->
+<!-- ** -->
+<!-- * Reliable autonomous systems -->
+<!-- ** UAV -->
 
 ### Publications ###
 
