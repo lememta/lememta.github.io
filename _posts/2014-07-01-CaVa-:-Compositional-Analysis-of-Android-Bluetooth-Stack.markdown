@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CoCo: Verification of Flight Critical Systems"
+title:  "CaVa: Compositional Analysis of Android Bluetooth Software Stack"
 ---
 
 More to come ...
