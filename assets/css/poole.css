@@ -372,7 +372,7 @@ ul.things {
 }
 
 ul.things li {
-    list-style: circle;
+    list-style: none;
     line-height:1.75em;
 }
 
