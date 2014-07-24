@@ -376,7 +376,7 @@ ul.things li {
     line-height:1.75em;
 }
 
-ul.things li span.description {
+ul.things li span.posted-date{
     color: #888888;
     float: right;
     font-size:95%;
