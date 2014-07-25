@@ -8,7 +8,7 @@ permalink: /research/
 ### Topics ###
 
 * Automated analysis of safety and mission critical systems.
-* Reliable autonoumous systems.
+* Reliable autonomous systems.
 * Vulnerabilty analysis of mobile applications.
 
 
