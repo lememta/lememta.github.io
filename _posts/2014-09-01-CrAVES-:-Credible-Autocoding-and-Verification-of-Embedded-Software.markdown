@@ -23,5 +23,5 @@ Computers and computer programs used to manage documents and spreadsheets. They 
 [teme]: http://www.lememta.info
 [marko]: http://dimjasevic.net/marko/
 [eric]: http://www.feron.org/Eric/
-[plco]: http://www.onera.fr/fr/staff/pierre-loic-garoche
+[ploc]: http://www.onera.fr/fr/staff/pierre-loic-garoche
 [av]: http://ti.arc.nasa.gov/profile/arnaud/
