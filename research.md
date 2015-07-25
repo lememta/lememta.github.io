@@ -21,8 +21,9 @@ Most of my publications can be found online:
 
 ### Service ###
 * Local chair for [CAV 2015][cav15]
-* PC: AVOCS-2014, ASE-TOOLS-2014, VSTTE-2014.
-* Reviwer for: CAV, ISSTA, TACAS, ASE, AVOCS, CADE, VMCAI, FMCAD.
+* PC-chair : CAV-2015 Artifact Evaluation.
+* PC: AVOCS-2014, ASE-TOOLS-2014, VSTTE-2014, ISSTA-2014 Artifact Evaluation.
+* Reviewer for: CAV, ISSTA, TACAS, ASE, AVOCS, CADE, VMCAI, FMCAD.
 
 [gs]: http://scholar.google.com/citations?user=GbqiyDYAAAAJ&hl=en
 [dblp]: http://www.informatik.uni-trier.de/~ley/pers/hd/k/Kahsai:Temesghen.html

@@ -8,8 +8,8 @@ NSF
 
 ## People ##
 * [Temesghen Kahsai][teme] (Principal Investigator) [NASA Ames / CMU]
-* [Zvonimir Rakamaric][z] (Prinicipal Investigator) [University of Utah]
-* [Marko Dimjašević][marko] (PhD student) [University of Utah] 
+* [Zvonimir Rakamaric][z] (Principal Investigator) [University of Utah]
+* [Marko Dimjašević][marko] (PhD student) [University of Utah]
 * [Falk Howar][falk] (External collaborator)
 
 ## Description ##
