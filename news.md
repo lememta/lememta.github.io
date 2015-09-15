@@ -14,7 +14,7 @@ We invite applications for a postdoctoral research scholar position in the [CAVA
 * SAT/SMT 
 * Fault diagnosis 
 
-are encouraged to apply. The successful candidate will have excellent coding skills (Java, C++, Python), strong communication skills, and will be able to work independently and in a dynamic team environment.
+are encouraged to apply. The successful candidate will have excellent coding skills (Java, C++, Python), strong communication skills, and ability to work independently and in a dynamic team environment.
 
 For more informations, please contact Temesghen Kahsai (teme.kahsai AT sv.cmu.edu)
 
