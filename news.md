@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What's new?
-permalink: /news/
+permalink: /What's new/
 ---
 
 ### Open Position ###
