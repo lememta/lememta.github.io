@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Open Positions
-permalink: /Open Positions/
+title: News
+permalink: /news/
 ---
 
-
-### Open position###
-
+### Open Position ###
 We invite applications for a postdoctoral research scholar position in the [CAVA][cava] project  in the Silicon Valley campus of Carnegie Mellon University.  Candidates must have (or close to obtain) a Ph.D. in Computer Science or a closely related area with a specialization in automated reasoning. Individuals with expertise in:
 
 * Android OS
-* Automata learning
+* Extended automata learning
 * Symbolic execution
 * Model checking
 * SAT/SMT 
