@@ -16,6 +16,8 @@ We invite applications for a postdoctoral research scholar position in the [CAVA
 
 are encouraged to apply. The successful candidate will have excellent coding skills (Java, C++, Python), strong communication skills, and ability to work independently and in a dynamic team environment.
 
+Carnegie Mellon University is an EEO/Affirmative Action Employer -- M/F/Disability/Veteran
+
 For more informations, please contact Temesghen Kahsai (teme.kahsai AT sv.cmu.edu)
 
 
