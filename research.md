@@ -21,7 +21,7 @@ Most of my publications can be found online:
 * [DBLP][dblp]
 
 ### Service ###
-* General chair for VSTTE-2016[vstte]
+* General chair for [VSTTE-2016][vstte]
 * Local chair for [CAV 2015][cav15]
 * PC-chair : CAV-2015 Artifact Evaluation.
 * PC: HCVS-2016, AVOCS-2014, ASE-TOOLS-2014, VSTTE-2014, ISSTA-2014 Artifact Evaluation.
