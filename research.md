@@ -6,10 +6,11 @@ permalink: /research/
 
 
 ### Topics ###
-
+* Artificial Intelligence.
+* Logic-based automated reasoning.
 * Automated analysis of safety and mission critical systems.
 * Reliable autonomous systems.
-* Vulnerabilty analysis of mobile applications.
+* Vulnerability analysis of software systems.
 
 
 ### Publications ###
@@ -20,9 +21,10 @@ Most of my publications can be found online:
 * [DBLP][dblp]
 
 ### Service ###
+* General chair for [VSTTE-2016][vstte]
 * Local chair for [CAV 2015][cav15]
 * PC-chair : CAV-2015 Artifact Evaluation.
-* PC: AVOCS-2014, ASE-TOOLS-2014, VSTTE-2014, ISSTA-2014 Artifact Evaluation.
+* PC: HCVS-2016, AVOCS-2014, ASE-TOOLS-2014, VSTTE-2014, ISSTA-2014 Artifact Evaluation.
 * Reviewer for: CAV, ISSTA, TACAS, ASE, AVOCS, CADE, VMCAI, FMCAD.
 
 [gs]: http://scholar.google.com/citations?user=GbqiyDYAAAAJ&hl=en
@@ -33,3 +35,4 @@ Most of my publications can be found online:
 [mine]: www.ti.arc.nasa.gov/profile/tkahsaia/
 [cmu]: www.cmu.edu/silicon-valley/
 [cav15]: http://cav2015.org/
+[vstte]: http://www.cs.toronto.edu/~chechik/vstte16/
