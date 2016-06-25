@@ -14,7 +14,7 @@ permalink: /research/
 
 ### Software Tools ###
 * [SeaHorn][seahorn] : Automated analysis framework for LLVM-based languages.
-* [JayHorn][jayhorn] : Automated framework for Java programs.
+* [JayHorn][jayhorn] : Automated analysis framework for Java programs.
 * [CoCoSim][cocosim] : An integrated analysis framework for Simulink/Stateflow models.
 * [Zustre][zustre] : SMT-based model checker and assume-guarantee contract generator for Lustre.
 * [LustreC][lustrec] : A modular compiler for Lustre.
