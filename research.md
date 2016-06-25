@@ -13,12 +13,12 @@ permalink: /research/
 * Vulnerability analysis of software systems.
 
 ### Software Tools ###
-[SeaHorn][seahorn]
-[JayHorn][jayhorn]
-[CoCoSim][cocosim]
-[Zustre][zustre]
-[LustreC][lustrec]
-[PKind][pkind]
+* [SeaHorn][seahorn] : Automated analysis framework for LLVM-based languages.
+* [JayHorn][jayhorn] : Automated framework for Java programs.
+* [CoCoSim][cocosim] : An integrated analysis framework for Simulink/Stateflow models.
+* [Zustre][zustre] : SMT-based model checker and assume-guarantee contract generator for Lustre.
+* [LustreC][lustrec] : A modular compiler for Lustre.
+
 
 
 
