@@ -12,18 +12,27 @@ permalink: /research/
 * Reliable autonomous systems.
 * Vulnerability analysis of software systems.
 
+### Software Tools ###
+[SeaHorn][seahorn]
+[JayHorn][jayhorn]
+[CoCoSim][cocosim]
+[Zustre][zustre]
+[LustreC][lustrec]
+[PKind][pkind]
+
+
 
 ### Publications ###
-
 Most of my publications can be found online:
 
 * [Google Scholar][gs]
 * [DBLP][dblp]
 
 ### Service ###
+* Program chair for NASA Formal Methods 2017
 * General chair for [VSTTE-2016][vstte]
 * Local chair for [CAV 2015][cav15]
-* PC-chair : CAV-2015 Artifact Evaluation.
+* Program chair : CAV-2015 Artifact Evaluation.
 * PC: HCVS-2016, AVOCS-2014, ASE-TOOLS-2014, VSTTE-2014, ISSTA-2014 Artifact Evaluation.
 * Reviewer for: CAV, ISSTA, TACAS, ASE, AVOCS, CADE, VMCAI, FMCAD.
 
@@ -36,3 +45,9 @@ Most of my publications can be found online:
 [cmu]: www.cmu.edu/silicon-valley/
 [cav15]: http://cav2015.org/
 [vstte]: http://www.cs.toronto.edu/~chechik/vstte16/
+[zustre]: https://github.com/coco-team/zustre
+[cocosim]:https://github.com/coco-team/cocoSim
+[seahorn]:http://seahorn.github.io/
+[jayhorn]:https://github.com/jayhorn/jayhorn
+[lustrec]:https://github.com/coco-team/lustrec
+[pkind]: https://github.com/coco-team/pkind
