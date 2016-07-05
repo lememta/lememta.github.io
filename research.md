@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-
 ### Topics ###
 * Artificial Intelligence.
 * Logic-based automated reasoning.
@@ -20,8 +19,6 @@ permalink: /research/
 * [LustreC][lustrec] : A modular compiler for Lustre.
 
 
-
-
 ### Publications ###
 Most of my publications can be found online:
 
@@ -29,6 +26,7 @@ Most of my publications can be found online:
 * [DBLP][dblp]
 
 ### Service ###
+* NSF Panel 2016
 * Program chair for NASA Formal Methods 2017
 * General chair for [VSTTE-2016][vstte]
 * Local chair for [CAV 2015][cav15]
