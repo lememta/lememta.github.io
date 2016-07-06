@@ -21,6 +21,6 @@ Carnegie Mellon University is an EEO/Affirmative Action Employer -- M/F/Disabili
 For more informations, please contact Temesghen Kahsai (teme.kahsai AT sv.cmu.edu)
 
 
-[cava]: http://www.lememta.info/2014/07/01/CaVa-:-Compositional-Analysis-of-Android-Bluetooth-Stack/
+[cava]: http://www.lememta.info/2014/07/01/CaVa-Compositional-Analysis-of-Android-Bluetooth-Stack/
 [sv]:http://www.cmu.edu/silicon-valley/
 [cmu]:http://www.cmu.edu/
