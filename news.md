@@ -8,7 +8,7 @@ permalink: /news/
 
 We have 2 open postdoctoral research scholar positions:
 
-### Postdoc position in verification of Android OS ###
+### Postdoc position in static and dynamic analysis of Android OS ###
 
 We invite applications for a postdoctoral research scholar position in the [CAVA][cava] project. The position is based at the [Silicon Valley][sv] campus of [Carnegie Mellon University][cmu].  Candidates must have (or close to obtain) a Ph.D. in Computer Science or a closely related area with a specialization in automated reasoning. Individuals with expertise in:
 
@@ -24,7 +24,7 @@ Carnegie Mellon University is an EEO/Affirmative Action Employer -- M/F/Disabili
 
 For more informations, please contact Temesghen Kahsai (teme.kahsai AT sv.cmu.edu)
 
-### Postdoc position in verification of Flight-Critial Software ###
+### Postdoc position in formal verification of Flight-Critical Software ###
 
 We invite applications for a postdoctoral research scholar position in the [CoCo][coco] project. The position is based at the [Silicon Valley][sv] campus of [Carnegie Mellon University][cmu].  Candidates must have (or close to obtain) a Ph.D. in Computer Science or a closely related area with a specialization in automated reasoning. Individuals with expertise in:
 
