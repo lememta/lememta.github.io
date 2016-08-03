@@ -40,6 +40,7 @@ Carnegie Mellon University is an EEO/Affirmative Action Employer -- M/F/Disabili
 For more informations, please contact Temesghen Kahsai (teme.kahsai AT sv.cmu.edu)
 
 [coco]: http://www.lememta.info/2014/07/01/CoCo-Verification-of-Flight-Critical-Systems/
+[cocosim]: https://github.com/coco-team/cocoSim
 [zustre]: https://github.com/coco-team/zustre
 [cocosim]: https://github.com/coco-team/cocoSim
 [jayhorn]: http://jayhorn.github.io/jayhorn/
