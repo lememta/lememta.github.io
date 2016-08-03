@@ -33,7 +33,7 @@ We invite applications for a postdoctoral research scholar position in the [CoCo
 * Automated test case generation
 * Simulink/Stateflow
 
-are encouraged to apply. The successful candidate will have excellent coding skills (Java, C++, OCaml, Python), strong communication skills, and ability to work independently and in a dynamic team environment. The candidate will also partially contribute to the developement of the following verification frameworks: [SeaHorn][seahorn], [Zustre][zustre] and [CoCoSim][cocosim].
+are encouraged to apply. The successful candidate will have excellent coding skills (Java, C++, OCaml, Python), strong communication skills, and ability to work independently and in a dynamic team environment. The candidate will also partially contribute to the development of the following verification frameworks: [SeaHorn][seahorn], [Zustre][zustre] and [CoCoSim][cocosim].
 
 Carnegie Mellon University is an EEO/Affirmative Action Employer -- M/F/Disability/Veteran
 
