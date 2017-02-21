@@ -1,6 +1,6 @@
 # Site settings
 title: Temesghen Kahsai
-tagline: 'Temesghen Kahsai'
+tagline: '&#4720&#4632&#4661&#4872&#4757'
 email: lememta@gmail.com
 description: 'Personal site of Teme'
 baseurl: ""
@@ -18,4 +18,3 @@ paginate:         5
 
 gems:
   - jekyll-sitemap
-
