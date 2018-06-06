@@ -27,13 +27,17 @@ Most of my publications can be found online:
 
 ### Service ###
 * NSF Panel 2016
+* Workshop and Tutorials chair for [LPAR-2018][lpar18]
+* Program chair for [HCVS-2018][hcvs18]
 * Program chair for NASA Formal Methods 2017
 * General chair for [VSTTE-2016][vstte]
 * Local chair for [CAV 2015][cav15]
 * Program chair : CAV-2015 Artifact Evaluation.
-* PC: HCVS-2016, AVOCS-2014, ASE-TOOLS-2014, VSTTE-2014, ISSTA-2014 Artifact Evaluation.
+* PC: LPAR-2018, FMCAD-2018, HCVS-2018, HCVS-2016, AVOCS-2014, ASE-TOOLS-2014, VSTTE-2014, ISSTA-2014 Artifact Evaluation.
 * Reviewer for: CAV, ISSTA, TACAS, ASE, AVOCS, CADE, VMCAI, FMCAD.
 
+[lpar18]:https://easychair.org/smart-program/LPAR-22/
+[hcvs18]: https://www.sci.unich.it/hcvs18/
 [gs]: http://scholar.google.com/citations?user=GbqiyDYAAAAJ&hl=en
 [dblp]: http://www.informatik.uni-trier.de/~ley/pers/hd/k/Kahsai:Temesghen.html
 [linkedin]: www.linkedin.com/in/temesghen/
