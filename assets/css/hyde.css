@@ -267,3 +267,95 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+
+/*
+ * Blog styles
+ */
+
+.posts {
+  margin-top: 1rem;
+}
+
+.posts .post {
+  margin-bottom: 2rem;
+}
+
+.posts .post-title {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  font-size: 1.4rem;
+}
+
+.posts .post-title a {
+  color: #303030;
+}
+
+.posts .post-title a:hover {
+  color: #268bd2;
+  text-decoration: none;
+}
+
+.posts .post-date {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #9a9a9a;
+  font-size: 0.85rem;
+}
+
+.posts .post-excerpt {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  color: #555;
+}
+
+.posts .post-tags {
+  margin-top: 0.5rem;
+}
+
+.posts .post-tags .tag {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  margin-right: 0.3rem;
+  font-size: 0.75rem;
+  background-color: #f0f0f0;
+  border-radius: 3px;
+  color: #666;
+}
+
+.post-separator {
+  border: 0;
+  border-top: 1px solid #eee;
+  margin: 2rem 0;
+}
+
+/* Single post page */
+.post h1.post-title {
+  margin-bottom: 0.25rem;
+}
+
+.post .post-date {
+  display: block;
+  margin-bottom: 2rem;
+  color: #9a9a9a;
+}
+
+/* Code blocks in posts */
+.post pre {
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+.post code {
+  background-color: #f0f0f0;
+  padding: 0.15rem 0.3rem;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+.post pre code {
+  background-color: transparent;
+  padding: 0;
+}
