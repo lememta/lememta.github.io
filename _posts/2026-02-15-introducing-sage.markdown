@@ -544,18 +544,84 @@ Now your compliance is formalized, tracked, and verifiable.
 
 -----
 
+## Implementation: Why Lean 4?
+
+SAGE is implemented in **Lean 4**, a theorem prover and programming language from Microsoft Research. This might seem like an unusual choice for a "practical" tool, but it's deeply intentional.
+
+### The Formal Methods Connection
+
+My background is in formal verification—NASA, CMU CyLab, AWS Automated Reasoning. I've spent years building tools like SeaHorn, JayHorn, and CoCoSim that prove software correct. The challenge has always been adoption: formal methods are powerful but perceived as academic.
+
+Lean 4 bridges this gap:
+
+- **It's a real programming language** — Fast compiled code, not just proofs
+- **It enables verification** — When we're ready to prove SAGE specs correct, the infrastructure is there
+- **It models what SAGE does** — Dependent types can encode the very contracts SAGE specifies
+- **It's the future** — The Lean community is growing rapidly, with backing from Microsoft and AWS
+
+### Architecture
+
+The SAGE compiler is a clean pipeline:
+
+```
+Source (.sage)
+    ↓
+Lexer (60+ token types)
+    ↓
+Parser (recursive descent)
+    ↓
+AST (typed abstract syntax)
+    ↓
+Type Checker (semantic validation)
+    ↓
+LSP Server (VS Code integration)
+```
+
+Each stage is implemented as pure Lean 4 code with comprehensive tests.
+
+### Future: Verified Compilation
+
+The long-term vision is **verified compilation**: proving that generated code satisfies its SAGE specification. Lean 4 makes this possible. Imagine:
+
+```sage
+@fn transfer(from: Account, to: Account, amount: Money) -> Result<()>
+@req amount > 0
+@req from.balance >= amount
+@ens from.balance' = from.balance - amount
+@ens to.balance' = to.balance + amount
+```
+
+And having the compiler *prove* that the generated code satisfies these contracts. That's where SAGE is heading.
+
+-----
+
 ## Getting Started
 
 Ready to try SAGE? Here's how:
 
-### Install the Parser
+### Prerequisites
+
+1. **Lean 4** - Install from [leanprover.github.io](https://leanprover.github.io/lean4/doc/setup.html):
+   ```bash
+   curl https://raw.githubusercontent.com/leanprover/elan/master/elan-init.sh -sSf | sh
+   ```
+
+2. **Node.js** (v16+) - For VS Code extension
+
+3. **VS Code** - For the best editing experience
+
+### Build the Compiler
 
 ```bash
 git clone https://github.com/lememta/sage-lang
 cd sage-lang
-pnpm install
-pnpm build
+./build.sh
 ```
+
+This builds:
+- `sage` — The SAGE compiler CLI
+- `sage-lsp` — The Language Server for VS Code
+- `test` — Comprehensive test suite
 
 ### Your First SAGE Program
 
@@ -563,24 +629,53 @@ Create `hello.sage`:
 
 ```
 @mod hello
+"A simple greeting function"
 
-@fn greet(name: Str) -> Str
-"Create a personalized greeting"
-ret "Hello, " + name + "!"
+@type Greeting = {
+  message: Str,
+  recipient: Str
+}
+
+@fn greet(name: Str) -> Greeting
+@req name.len() > 0
+@ens "Returns a personalized greeting"
+
+!! "Keep greetings friendly and professional"
 ```
 
-### VS Code Extension
+Compile it:
 
 ```bash
-cd packages/vscode
-npx @vscode/vsce package --no-dependencies
-code --install-extension sage-vscode-0.1.0.vsix
+.lake/build/bin/sage hello.sage
 ```
+
+### VS Code Extension with LSP
+
+One command setup:
+
+```bash
+./scripts/setup-vscode-lsp.sh
+```
+
+Then restart VS Code. Open any `.sage` file to get:
+- ✅ Syntax highlighting
+- ✅ Real-time diagnostics
+- ✅ Parse and type error reporting
+
+### Run Tests
+
+```bash
+.lake/build/bin/test
+```
+
+Runs the full test suite: lexer, parser, type checker, and integration tests.
 
 ### Learn More
 
 - **GitHub**: [github.com/lememta/sage-lang](https://github.com/lememta/sage-lang)
-- **Tutorial**: See `docs/tutorial.md` in the repo
+- **Quick Start**: See `QUICKSTART.md` in the repo
+- **Usage Guide**: See `USAGE.md` for detailed documentation
+- **Tutorial**: See `docs/tutorial.md` for learning SAGE
 - **Examples**: Check the `examples/` folder
 
 -----
