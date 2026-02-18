@@ -12,8 +12,16 @@ title: Home
   <li>[2013-2017] Research Scientist @ <a href="http://www.nasa.gov/centers/ames/home/index.html"> NASA Ames Research Center</a>, member of the <a href="http://ti.arc.nasa.gov/tech/rse/">Robust Software Engineering</a> group in the Intelligent System Division.</li>
   <li>[2015-2017] Staff Software Engineer @ <a href="https://www.nasa.gov/resource-prospector"> NASA Resource Prospector Mission</a>.</li>
   <li>[2013-2017] Senior System Scientist @  <a href="https://www.cylab.cmu.edu/education/faculty/kahsai.html">Carnegie Mellon University CyLAB</a>.</li>
-  <ul>
+</ul>
 
+<h3>Current Projects</h3>
+
+<ul class="posts">
+  <li>
+    <a class="post-link" href="https://github.com/lememta/sage-lang">🌿 SAGE</a> — A semi-formal specification language for AI-assisted development. Blends natural language with types and contracts.
+    <br><small><a href="/blog/">Read the blog post →</a></small>
+  </li>
+</ul>
 
 <h3>Past Projects</h3>
 
@@ -21,11 +29,8 @@ title: Home
         {% for post in site.posts %}
         <li>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            <!-- <span class ="posted-date"> 2014 - 2017 </span> -->
-            <!-- <span class="posted-date">{{ post.date | date: "%b %-d, %Y" }}</span> -->
         </li>
         {% endfor %}
     </ul>
-
 
 </div>
